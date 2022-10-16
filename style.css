@@ -1,0 +1,100 @@
+*{
+    padding: 0;
+    margin: 0px;
+}
+#header{
+    height: 200px;
+    width: 100%;
+    background-color: green;
+}
+
+#header h1{
+    margin-left: 15%;
+    padding-top: 80px;;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+}
+
+#main{
+    margin-left:15%;
+    width: 70%;
+    margin-right: 15%;
+}
+
+#add-items{
+    margin-top: 20px;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+input[type="text"]{
+    width: 500px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+input[value="Submit"]{
+    margin-left: 540px;
+    height: 30px;
+    width: 55px;
+    margin-top: -33px;
+    float: left;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+#task{
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+}
+
+div div h4{
+    font-size: 25px;
+    font-family: sans-serif;
+    height: 30px;
+    margin-top: 10px;
+    
+}
+.ele{
+    padding-left: 20px;
+}
+#container{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 153px;
+    margin-top: 20px;
+    
+
+}
+.css{
+    border-bottom: 1px solid black;
+    height: 40px;
+}
+
+.edit{
+    background-color: green;
+    border-radius: 5px;
+    margin-left: 890px;
+    height: 35px;
+    width: 50px;
+    color: white;
+    float: right;
+    margin-right: 100px;
+    margin-top: -34px;
+}
+.delete{
+    background-color: red;
+    border-radius: 5px;
+    /* margin-left: 950px; */
+    height: 35px;
+    width: 75px;
+    float: right;
+    margin-right: 15px;
+    margin-top: -34px;
+
+}
