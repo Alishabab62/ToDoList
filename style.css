@@ -98,4 +98,7 @@ div div h4 {
 
  /* Dynamic To-Do List */
 
- 
+ .ul{
+    height: 200px;
+    width: 200px;
+ }
