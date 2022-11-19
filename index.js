@@ -6,7 +6,7 @@ const new_div = document.getElementById("new-div");
 const new_btn = document.getElementById("new-btn");
 
 btn.addEventListener("click", () => {
-//   add_item();
+  add_item();
   create_btn();
 });
 
